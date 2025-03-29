@@ -33,7 +33,7 @@ Contributeurs : Anaëlle Pollart, Tristan Martinez, Jérôme Balthazar, Louise M
 ---
 
 ## 📁 Structure du projet
-
+```bash
 Graph_Theory_Project/
 │
 ├── results/                  # Dossier de sortie contenant les fichiers de résultats avec les traces d'exécutions
@@ -43,7 +43,7 @@ Graph_Theory_Project/
 ├── graph.py                  # Structure du graphe, ordonnancement, rangs, cycles, marges, etc.
 ├── main.py                   # Point d’entrée du programme (affiche le menu principal)
 └── save_all_results.py       # Lance l’analyse automatique sur tous les fichiers de test et les sauvegardes dans le dossier results
-
+```
 ---
 
 ## 📦 Prérequis
