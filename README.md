@@ -32,6 +32,21 @@ Contributeurs : Anaëlle Pollart, Tristan Martinez, Jérôme Balthazar, Louise M
 
 ---
 
+## 📁 Structure du projet
+
+```bash
+Graph_Theory_Project/
+│
+├── results/                  # Dossier de sortie contenant les fichiers de résultats avec les traces d'exécutions
+├── tests/                    # Dossier avec les fichiers .txt de contraintes à tester
+├── display.py                # Affichage du menu et appel des fonctions selon le choix utilisateur
+├── filereader.py             # Lecture des fichiers de contraintes et stockage des données
+├── graph.py                  # Structure du graphe, ordonnancement, rangs, cycles, marges, etc.
+├── main.py                   # Point d’entrée du programme (affiche le menu principal)
+└── save_all_results.py       # Lance l’analyse automatique sur tous les fichiers de test et les sauvegardes dans le dossier results
+
+---
+
 ## 📦 Prérequis
 
 - Python 3.x
