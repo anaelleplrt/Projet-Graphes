@@ -34,7 +34,6 @@ Contributeurs : Anaëlle Pollart, Tristan Martinez, Jérôme Balthazar, Louise M
 
 ## 📁 Structure du projet
 
-```bash
 Graph_Theory_Project/
 │
 ├── results/                  # Dossier de sortie contenant les fichiers de résultats avec les traces d'exécutions
